@@ -39,7 +39,7 @@ $ python Run.py
 
 ### Why failed to download?
 
-- Because the folder to be downloaded is empty or not available in the file.
+- You entered the wrong Terabox link or it no longer works.
 - Maybe because the download link has expired or the content is private.
 - Please repeat using "AIRPLANE MODE" before you enter the Terabox link.
 
