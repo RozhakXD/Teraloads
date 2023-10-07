@@ -58,8 +58,6 @@ $ python Run.py
 ### What if the connection is lost?
 When your internet connection is lost you can wait because it automatically continues downloading files so you don't need to worry if the connection is lost or bad.
 
-### 
-
 ##
 ```python
 print("Good luck hope it works!")
