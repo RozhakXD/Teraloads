@@ -22,7 +22,7 @@
 This program only functions to make it easier for you to download files from the Terabox application, nothing more!
 
 ### Termux command?
-First you must have the [Termux](https://f-droid.org/repo/com.termux_118.apk) application to run this script and for how to use it can be seen on [**Youtube**](https://www.youtube.com/rozhakid). Then you enter some basic commands below!
+First you must have the [Termux](https://f-droid.org/repo/com.termux_118.apk) application to run this script and for how to use it can be seen on [**Youtube**](https://youtu.be/BgcbGbHbibE). Then you enter some basic commands below!
 ```
 $ termux-setup-storage
 $ apt update -y && apt upgrade -y
